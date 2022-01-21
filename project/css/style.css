@@ -1,0 +1,21 @@
+/* ROOT COLORS */
+
+:root {
+  --main: #1e90ff;
+  --secondary: #ffffff;
+  --tint: red;
+}
+
+/* GLOBAL */
+
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+a {
+  color: var(--secondary);
+}
+
+a:hover {
+  color: var(--secondary);
+}
